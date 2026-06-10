@@ -1,29 +1,75 @@
-# <img src="org.kde.accessibilityinspector.svg" width="40"/> Accessibility Inspector
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# accessibility-inspector
 
-Inspect your application's accessibility tree
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/accessibility-inspector)
 
-![Main Window](https://cdn.kde.org/screenshots/accessibility-inspector/properties.png)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Support
+## Architecture
 
-If you have an issue with Accessibility Inspector, please [open a support thread on KDE Discuss](https://discuss.kde.org). Alternatively, you can ask in the [KDE Matrix room](https://go.kde.org/matrix/#/#kde:kde.org). See [Matrix](https://community.kde.org/Matrix) for more details.
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-## Building
+## Install
 
-The easiest way to make changes and test Accessibility Inspector during development is to [build it with kde-builder](https://develop.kde.org/docs/getting-started/building).
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-## Contributing
+```bash
+git clone https://github.com/Interested-Deving-1896/accessibility-inspector.git
+cd accessibility-inspector
+```
 
-Like other projects in the KDE ecosystem, contributions are welcome from all. This repository is managed in [KDE Invent](https://invent.kde.org/accessibility/accessibility-inspector), our GitLab instance.
+## Usage
 
-* Want to contribute code? See the [GitLab wiki page](https://community.kde.org/Infrastructure/GitLab) for a tutorial on how to send a merge request.
-* Reporting a bug? Please submit it on the [KDE Bugtracking System](https://bugs.kde.org/enter_bug.cgi?format=guided&product=Accessibility%20Inspector). Please do not use GitLab issues
- to report bugs.
-* Is there a part of Accessibility Inspector that's not translated? See the [Getting Involved in Translation wiki page](https://community.kde.org/Get_Involved/translation) to see how
-  you can help translate!
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-If you get stuck or need help with anything at all, head over to the [KDE New Contributors room](https://go.kde.org/matrix/#/#kde-welcome:kde.org) on Matrix. For questions about Accessibility Inspector, please ask in the [KDE Development room](https://go.kde.org/matrix/#/#kde-devel:kde.org). See [Matrix](https://community.kde.org/Matrix) for more details.
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/accessibility-inspector`](https://github.com/Interested-Deving-1896/accessibility-inspector) and mirrored through:
+
+```
+Interested-Deving-1896/accessibility-inspector  ──►  OpenOS-Project-OSP/accessibility-inspector  ──►  OpenOS-Project-Ecosystem-OOC/accessibility-inspector
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
 
 ## License
 
-This project's source code and assets are under multiple licenses, please see the REUSE metadata for specific licensing requirements.
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
