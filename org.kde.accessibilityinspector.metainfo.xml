@@ -219,6 +219,7 @@
   </screenshots>
   <translation type="gettext">accessibilityinspector</translation>
   <releases>
+    <release version="26.08.0" date="2026-08-20"/>
     <release version="26.04.3" date="2026-07-02"/>
     <release version="26.04.2" date="2026-06-04"/>
     <release version="26.04.1" date="2026-05-07"/>
@@ -264,6 +265,7 @@
         <p xml:lang="it">Aggiornamento a Qt6</p>
         <p xml:lang="ka">განახლება Qt6-ზე</p>
         <p xml:lang="ko">Qt6으로 업데이트</p>
+        <p xml:lang="lv">Atjaunināts uz „Qt6“</p>
         <p xml:lang="nl">Bijgewerkt tot Qt6</p>
         <p xml:lang="pl">Uaktualnienie do Qt6</p>
         <p xml:lang="pt-BR">Atualizado para o Qt6</p>
@@ -297,6 +299,7 @@
         <p xml:lang="it">Versione iniziale come componente autonomo.</p>
         <p xml:lang="ka">პირველი ვერსია ცალკეული კომპონენტის სახით.</p>
         <p xml:lang="ko">단독 구성 요소로서 출시된 첫 버전입니다.</p>
+        <p xml:lang="lv">Sākotnējā versija kā neatkarīgai sastāvdaļai.</p>
         <p xml:lang="nl">Initiële versie als een alleenstaande component.</p>
         <p xml:lang="pl">Pierwsze wydanie jako wolnostojący składnik.</p>
         <p xml:lang="pt-BR">Versão inicial como componente independente.</p>
